@@ -10,6 +10,16 @@ It is a very complete project that covers all points and perfectly replicates an
 If you have any concerns, do not hesitate to ask, enjoy it!
 
 
+# Technologies
+
+HTML + CSS + MUI MATERIAL + JAVASCRIPT + REACT.JS + REDUX.JS + NODE.JS + EXPRESS + POSTGRESQL + SEQUELIZE + AUTH + FIREBASE
+
+# Video
+
+[![Video](https://img.youtube.com/PLij6K1dzA5togyQTBim8ZvZ0cDK3fFd_a/0.jpg)](https://www.youtube.com/playlist?list=PLij6K1dzA5togyQTBim8ZvZ0cDK3fFd_a)
+
+
+
 Link deploy: 
 
 https://pf-grupo-2.vercel.app/
