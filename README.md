@@ -16,7 +16,8 @@ HTML + CSS + MUI MATERIAL + JAVASCRIPT + REACT.JS + REDUX.JS + NODE.JS + EXPRESS
 
 # Video
 
-[![Video](https://img.youtube.com/PLij6K1dzA5togyQTBim8ZvZ0cDK3fFd_a/0.jpg)](https://www.youtube.com/playlist?list=PLij6K1dzA5togyQTBim8ZvZ0cDK3fFd_a)
+[![Video](https://img.youtube.com/vi/Q-BwEki_F4g/0.jpg)](https://www.youtube.com/playlist?list=PLij6K1dzA5togyQTBim8ZvZ0cDK3fFd_a)
+
 
 
 
